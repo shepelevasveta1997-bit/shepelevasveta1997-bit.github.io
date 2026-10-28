@@ -1,2 +1,2 @@
-# shepelevasveta1997-bit.github.io
-Сайт визитка HTML,CSS
+# cv_test
+Сайт-визика на HTML + CSS + JS
